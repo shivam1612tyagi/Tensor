@@ -92,11 +92,6 @@ Here’s a breakdown of the project directory:
 - **[Matplotlib](https://matplotlib.org/)** (Future)  
   We plan to integrate [Matplotlib](https://matplotlib.org/) to visualize tensor data and transformations, providing better insight into tensor operations (coming soon!).
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -108,7 +103,3 @@ Or open an issue on the [GitHub repository](https://github.com/shivam1612tyagi/T
 
 ---
 
-### 🌟 Contribute to Tensor
-
-We welcome contributions to improve the Tensor library! If you have suggestions, bug fixes, or new features, feel free to fork the repository and create a pull request.
-```
